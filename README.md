@@ -31,4 +31,5 @@ We employ a unique dataset of Major League Baseball (MLB) players – a select, 
 ### What else can we investigate?
 
 * Age and Weight Gain
-* 
+* Muscle mass and longevity
+* Wealth and life expectency
