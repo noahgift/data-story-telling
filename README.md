@@ -21,9 +21,9 @@ We employ a unique dataset of Major League Baseball (MLB) players – a select, 
 
 *Abstract*
 
-*Results* Compared to 20‐year‐old U.S. males, MLB players can expect almost five additional years of life. Height, weight, handedness, and player ratings are unassociated with the risk of death in this population of highly active and successful adults. Career length is inversely associated with the risk of death, likely because those who play longer gain additional incomes, physical fitness, and training.
+*Results*: Compared to 20‐year‐old U.S. males, MLB players can expect almost five additional years of life. Height, weight, handedness, and player ratings are unassociated with the risk of death in this population of highly active and successful adults. Career length is inversely associated with the risk of death, likely because those who play longer gain additional incomes, physical fitness, and training.
 
-*Conclusions.* Our results indicate improvements in life expectancies with time for all age groups and indicate possible improvements in longevity in the general U.S. population.
+*Conclusions:* Our results indicate improvements in life expectancies with time for all age groups and indicate possible improvements in longevity in the general U.S. population.
 
 
 [Major League Baseball Players' Life Expectancies](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6237.2008.00562.x)
