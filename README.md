@@ -33,3 +33,5 @@ We employ a unique dataset of Major League Baseball (MLB) players – a select, 
 * Age and Weight Gain
 * Muscle mass and longevity
 * Wealth and life expectency
+* [Intermittent Fasting and Healthy Body Weight](https://noahgift.com/articles/datascience-meets-intermittent-fasting/)
+
