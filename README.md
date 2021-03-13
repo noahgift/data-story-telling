@@ -34,4 +34,6 @@ We employ a unique dataset of Major League Baseball (MLB) players – a select, 
 * Muscle mass and longevity
 * Wealth and life expectency
 * [Intermittent Fasting and Healthy Body Weight](https://noahgift.com/articles/datascience-meets-intermittent-fasting/)
+* Is BMI too crude of a tool to measure health and longevity?
+* Does Obesity lead to poor outcomes in Pandemics i.e. Covid-19?
 
