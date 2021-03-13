@@ -2,6 +2,8 @@
 A repo where I explain how to do data story telling
 
 
+* [Data_Story_Telling_Notebook](https://github.com/noahgift/data-story-telling/blob/main/Data_Story_Telling.ipynb)
+
 ## Where you start?
 
 A good place to start with Data Storytelling is to build a notebook and try out some ideas.
