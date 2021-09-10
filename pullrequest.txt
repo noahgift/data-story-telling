@@ -1,6 +1,0 @@
-ran thru the data story and edited code to force functionality
-
-minor syntax errors, e.g., cufflinks not imported prior to use; column typos for ball players section
-
-issue: udpated column headers; zillow's econ data api is recommended, as the column headers have changed since Q1 2021
-idea: in the future demo accessing the published data via the Econ Data API
