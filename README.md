@@ -2,7 +2,7 @@
 A repo where I explain how to do data story telling
 
 
-* [Data_Story_Telling_Notebook](https://github.com/noahgift/data-story-telling/blob/main/Data_Story_Telling.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/noahgift/data-story-telling/blob/main/Data_Story_Telling.ipynb)
 
 
 ![Screen Shot 2021-03-13 at 10 17 13 AM](https://user-images.githubusercontent.com/58792/111034819-5747ba00-83e5-11eb-8c5f-94b080cad634.png)
